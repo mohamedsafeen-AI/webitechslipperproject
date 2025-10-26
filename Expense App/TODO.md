@@ -1,13 +1,3 @@
-- [x] Update image URL for restaurant id:1 ('Pizzas') in backend/server.js with a new pizza image
-- [x] Test the backend server to ensure the change works
-- [x] Add restaurant id:3 with name 'Cheeseburger' and a cheeseburger image URL in backend/server.js
-- [x] Restart the backend server to apply changes
-- [x] Test the API for restaurant id:3
-- [x] Update restaurant id:4 with name 'Veg Burger' and a veg burger image URL in backend/server.js
-- [x] Restart the backend server to apply changes
-- [x] Test the API for restaurant id:4
-- [x] Change app name to WebbyFoody in package.json files
-- [x] Update HTML titles and descriptions to WebbyFoody
-- [x] Update component titles to WebbyFoody
-- [x] Change search placeholder to "search for foods"
-- [x] Change "Restaurants" heading to "Fast Foods" in RestaurantList component
+- [x] Build the frontend React app
+- [x] Build the admin React app
+- [x] Start the backend server on port 5000
